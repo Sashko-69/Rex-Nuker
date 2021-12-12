@@ -1,0 +1,10 @@
+{
+   "Token": "постове токен на бота си тук",
+   "Prefix": "!",
+   "Channel Names": ["nuked","hahahahha","nuked by sashko"],
+   "Role Names": ["nuked", "pedali","nuked by sashko"],
+   "Webhook Usernames": ["nuked by <@898952232647667742>"],
+   "Spam Messages": ["@everyone nuked by <@898952232647667742> | https://discord.gg/EYuhmzRAnZ | https://www.youtube.com/channel/UCWBtxeMUywuXmm-sW8vfM0Q"],
+   "Bot": true
+}
+

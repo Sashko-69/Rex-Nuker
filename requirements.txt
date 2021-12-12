@@ -1,0 +1,8 @@
+requires
+os 
+sys
+discord, 
+json
+threading 
+random 
+asyncio
